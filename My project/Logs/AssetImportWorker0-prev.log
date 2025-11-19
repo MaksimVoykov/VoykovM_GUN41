@@ -15,7 +15,7 @@ C:/Users/maks5/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/VoykovM_GUN41/My project
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51892
+51942
 Successfully changed project path to: C:/Users/maks5/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/VoykovM_GUN41/My project
 C:/Users/maks5/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/VoykovM_GUN41/My project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,14 +49,14 @@ C:/Users/maks5/OneDrive/Р Р°Р±РѕС‡РёР№ СЃС‚РѕР»/VoykovM_GUN41/My project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [16392]  Target information:
+Player connection [16648]  Target information:
 
-Player connection [16392]  * "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 1413152869 [EditorId] 1413152869 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AKH3RPN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [16648]  * "[IP] 192.168.0.12 [Port] 0 [Flags] 2 [Guid] 799624640 [EditorId] 799624640 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-AKH3RPN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [16392] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [16392] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [16648] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [16648] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-Refreshing native plugins compatible for Editor in 9.40 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 8.23 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.38f1 (c5d5a7410213)
 [Subsystems] Discovering subsystems at path D:/unity/2022.3.38f1/Editor/Data/Resources/UnitySubsystems
@@ -72,43 +72,43 @@ Initialize mono
 Mono path[0] = 'D:/unity/2022.3.38f1/Editor/Data/Managed'
 Mono path[1] = 'D:/unity/2022.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'D:/unity/2022.3.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: D:/unity/2022.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002884 seconds.
-- Loaded All Assemblies, in  0.217 seconds
+Registered in 0.002725 seconds.
+- Loaded All Assemblies, in  0.202 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.162 seconds
-Domain Reload Profiling: 379ms
-	BeginReloadAssembly (65ms)
+- Finished resetting the current domain, in  0.163 seconds
+Domain Reload Profiling: 364ms
+	BeginReloadAssembly (66ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (22ms)
-	RebuildNativeTypeToScriptingClass (7ms)
-	initialDomainReloadingComplete (36ms)
-	LoadAllAssembliesAndSetupDomain (87ms)
-		LoadAssemblies (64ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (80ms)
+		LoadAssemblies (66ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (86ms)
-			TypeCache.Refresh (85ms)
-				TypeCache.ScanAssembly (76ms)
+		AnalyzeDomain (79ms)
+			TypeCache.Refresh (78ms)
+				TypeCache.ScanAssembly (70ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (0ms)
-	FinalizeReload (162ms)
+	FinalizeReload (163ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (127ms)
+		SetupLoadedEditorAssemblies (128ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (5ms)
 			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
 			BeforeProcessingInitializeOnLoad (1ms)
-			ProcessInitializeOnLoadAttributes (87ms)
+			ProcessInitializeOnLoadAttributes (88ms)
 			ProcessInitializeOnLoadMethodAttributes (29ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
@@ -117,30 +117,30 @@ Domain Reload Profiling: 379ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.415 seconds
-Refreshing native plugins compatible for Editor in 3.83 ms, found 3 plugins.
+- Loaded All Assemblies, in  0.400 seconds
+Refreshing native plugins compatible for Editor in 2.44 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.399 seconds
-Domain Reload Profiling: 813ms
-	BeginReloadAssembly (97ms)
+- Finished resetting the current domain, in  0.401 seconds
+Domain Reload Profiling: 801ms
+	BeginReloadAssembly (90ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (3ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (19ms)
 	RebuildCommonClasses (20ms)
-	RebuildNativeTypeToScriptingClass (5ms)
-	initialDomainReloadingComplete (26ms)
-	LoadAllAssembliesAndSetupDomain (266ms)
-		LoadAssemblies (196ms)
+	RebuildNativeTypeToScriptingClass (6ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (259ms)
+		LoadAssemblies (174ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (125ms)
-			TypeCache.Refresh (107ms)
-				TypeCache.ScanAssembly (99ms)
+		AnalyzeDomain (134ms)
+			TypeCache.Refresh (115ms)
+				TypeCache.ScanAssembly (107ms)
 			ScanForSourceGeneratedMonoScriptInfo (12ms)
 			ResolveRequiredComponents (4ms)
-	FinalizeReload (399ms)
+	FinalizeReload (402ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
 		SetupLoadedEditorAssemblies (304ms)
@@ -148,20 +148,20 @@ Domain Reload Profiling: 813ms
 			InitializePlatformSupportModulesInManaged (3ms)
 			SetLoadedEditorAssemblies (3ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (41ms)
-			ProcessInitializeOnLoadAttributes (243ms)
-			ProcessInitializeOnLoadMethodAttributes (12ms)
-			AfterProcessingInitializeOnLoad (3ms)
+			BeforeProcessingInitializeOnLoad (38ms)
+			ProcessInitializeOnLoadAttributes (245ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
 		AwakeInstancesAfterBackupRestoration (4ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 3.00 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 3.27 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 4101 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 57 unused Assets / (132.7 KB). Loaded Objects now: 4561.
+Unloading 57 unused Assets / (132.3 KB). Loaded Objects now: 4561.
 Memory consumption went from 146.3 MB to 146.2 MB.
-Total: 2.434800 ms (FindLiveObjects: 0.256400 ms CreateObjectMapping: 0.049300 ms MarkObjects: 2.019000 ms  DeleteObjects: 0.109300 ms)
+Total: 2.184000 ms (FindLiveObjects: 0.253700 ms CreateObjectMapping: 0.043800 ms MarkObjects: 1.763500 ms  DeleteObjects: 0.121800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -178,1239 +178,280 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 192575.488295 seconds.
-  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
-  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'dfd781d2aa8a877ccd795f5141499b76') in 0.045440 seconds
+  Time since last request: 192969.486152 seconds.
+  path: Assets/Models/Drone/References/Materials/black.mat
+  artifactKey: Guid(ca862d9708fb270498ff25634a51396d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Drone/References/Materials/black.mat using Guid(ca862d9708fb270498ff25634a51396d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b86b056b1dbbc1080140d9a4a2234d0d') in 0.232168 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
-  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f35f626bdcf10d1e647476835cde55b5') in 0.011781 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Audio/whoosh1_Sound.mp3
-  artifactKey: Guid(92c7eef85fb50cd4c9761b339803f148) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Audio/whoosh1_Sound.mp3 using Guid(92c7eef85fb50cd4c9761b339803f148) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '51378fa05ed00bf1b1a87c22ce6ebe67') in 0.048732 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Sprites/circlefillRy32px256px.png
-  artifactKey: Guid(ebc82bb9dacba0f478d2a059e9181886) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Sprites/circlefillRy32px256px.png using Guid(ebc82bb9dacba0f478d2a059e9181886) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4bc9f8b03e1f17a4c6752a743b03d843') in 0.043804 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Audio/vystrel-tanka-1.mp3
-  artifactKey: Guid(95502f053e4521d4e9eaf3c777aa8799) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Audio/vystrel-tanka-1.mp3 using Guid(95502f053e4521d4e9eaf3c777aa8799) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6628b5d50109447984d9fa62b67d0f6c') in 0.038149 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Scripts/TankGameInstaller.cs
-  artifactKey: Guid(9ed82f0b1ccf1ff449d54945b1f61b62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/TankGameInstaller.cs using Guid(9ed82f0b1ccf1ff449d54945b1f61b62) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '99e357e50ac834e040584c06c0228405') in 0.009031 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Effects/Weapon/MuzzleFlash01.prefab
-  artifactKey: Guid(0f5d80b13ed22d14b91a12eb2cfa86e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Weapon/MuzzleFlash01.prefab using Guid(0f5d80b13ed22d14b91a12eb2cfa86e6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0bf3ccca684b2b6c208d09fab8ec9066') in 0.060288 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 10
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Scripts/Tank/BaseInputController.cs
-  artifactKey: Guid(582a8d736d424b1cbdf199afff8cdd9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Tank/BaseInputController.cs using Guid(582a8d736d424b1cbdf199afff8cdd9b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6f99175c347d332b603cc0fc82cfd5c2') in 0.008049 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Models/Track/GroundTrack.fbx
-  artifactKey: Guid(2afa5a1773ca1f84f98c062866a8be55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Track/GroundTrack.fbx using Guid(2afa5a1773ca1f84f98c062866a8be55) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5b8efd137a1816cc6a421fbaa1d15c97') in 0.032735 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 19
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Scripts/Tank/PlayerInputController.cs
-  artifactKey: Guid(6213543e868e4a008eaa9de7f85ad61e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Tank/PlayerInputController.cs using Guid(6213543e868e4a008eaa9de7f85ad61e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '67a4795d53fffc5e6e2cdcaaecdd234c') in 0.007595 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Effects/Explosion/RocketTrail.prefab
-  artifactKey: Guid(06bc48e02b9d10b4d9bded7c476e89d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/RocketTrail.prefab using Guid(06bc48e02b9d10b4d9bded7c476e89d7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6bf41bf9433ddfd491e9e4abec2f904a') in 0.029662 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 26
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Scripts/Legacy/LegacyTransmissionSettings.cs
-  artifactKey: Guid(b40e4376f8ff4f17ba0a6c55424ac9cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Legacy/LegacyTransmissionSettings.cs using Guid(b40e4376f8ff4f17ba0a6c55424ac9cd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '86d80f53d0c9a6bdfa46cbd5deb2e848') in 0.009773 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Animations/Indicator/IndicatorFifth_Anim.anim
-  artifactKey: Guid(d45af3d7acfaedc41aa7d6c0607e6e9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Animations/Indicator/IndicatorFifth_Anim.anim using Guid(d45af3d7acfaedc41aa7d6c0607e6e9c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '71f8afab430bc72870aadd7123852a6f') in 0.021514 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Scripts/Tank/BattleRam.cs
-  artifactKey: Guid(e5e26ff9a27948a4b491c756ab3fdb5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Tank/BattleRam.cs using Guid(e5e26ff9a27948a4b491c756ab3fdb5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ba53c7f7d1560d302707651019f90224') in 0.008015 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
-  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c9a5318621ce335bc264cf8969e20956') in 0.010486 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
-  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd7856a16666c916cae67dccb2234d061') in 0.011025 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Scripts/Tank/TankController.cs
-  artifactKey: Guid(7936c83141e145379cdc9908d427b98b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Tank/TankController.cs using Guid(7936c83141e145379cdc9908d427b98b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0869a3b2ba8319314c8b2c72984293df') in 0.006932 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Scripts/Interface/Speedometer.cs
-  artifactKey: Guid(258daacd5fbf6f246ab201ddb4b1ef32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Interface/Speedometer.cs using Guid(258daacd5fbf6f246ab201ddb4b1ef32) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4cb8bf21e743f8052e4039dad9811fa7') in 0.010048 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
-  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2ae8bb5366544b3f56bfc486c99b8469') in 0.014514 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Scripts/Editor/LayerAndTagGenerator.cs
-  artifactKey: Guid(e32c7f71f8114211b09270199a70c667) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Editor/LayerAndTagGenerator.cs using Guid(e32c7f71f8114211b09270199a70c667) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4f0fd60ad8d0926baf6bedfe65f4cb53') in 0.007225 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
-  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '93fe4fa4311fa6900429ad9327fd9e5b') in 0.008047 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
-  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '62d6b6978800c339e9a6097a9bc56bf6') in 0.008397 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
-  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'cc9da0c3d8770a808c60360d820d0254') in 0.026244 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 2
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Effects/Smoke/Materials/Textures/SmokePuff04.png
-  artifactKey: Guid(c904f5c1f19e8fc42865cf6d70b4fcb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Smoke/Materials/Textures/SmokePuff04.png using Guid(c904f5c1f19e8fc42865cf6d70b4fcb6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '9b9e3b18e6a1cdf627b40e5a72235539') in 0.023079 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Models/Drone/References/Materials/White.mat
-  artifactKey: Guid(91d21386d1235164cb09fa2332de50b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Drone/References/Materials/White.mat using Guid(91d21386d1235164cb09fa2332de50b6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'bc08efb23ba7cb3f4233e7c8615cd793') in 0.021161 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Models/Track/Materials/Textures/GridEmissive.png
-  artifactKey: Guid(f12438971f1ef65478bf3b3f12e0aab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Track/Materials/Textures/GridEmissive.png using Guid(f12438971f1ef65478bf3b3f12e0aab4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd26c7b1d2f902653c055dbe05fb00cec') in 0.017385 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Models/Tank/Materials/TrackerMaterial.mat
-  artifactKey: Guid(a06ebd461e4ff2041a931103920d964d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Tank/Materials/TrackerMaterial.mat using Guid(a06ebd461e4ff2041a931103920d964d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2423dc059e56a515252e7289a2d825f4') in 0.040223 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Models/Track/Materials/NavyDarkGrid.mat
-  artifactKey: Guid(01c04496878436140922b19f5220712b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Track/Materials/NavyDarkGrid.mat using Guid(01c04496878436140922b19f5220712b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b8eb96690d3fd0f081d1f37e0fe84960') in 0.034492 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
+  Time since last request: 0.000042 seconds.
   path: Assets/Models/Tank/Materials/CTF_Mat_AdElements_Yel.mat
-  artifactKey: Guid(b7275cbf36c85ea429b0ea4cefeaa312) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Tank/Materials/CTF_Mat_AdElements_Yel.mat using Guid(b7275cbf36c85ea429b0ea4cefeaa312) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'e4d01e2adc8ee9eb6a2fdd9164c56de9') in 0.053995 seconds
+  artifactKey: Guid(b7275cbf36c85ea429b0ea4cefeaa312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tank/Materials/CTF_Mat_AdElements_Yel.mat using Guid(b7275cbf36c85ea429b0ea4cefeaa312) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ca565dff4a29ed21cbc9624b4b263800') in 0.142705 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 4
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Models/Track/Materials/SkyboxProcedural.mat
-  artifactKey: Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Track/Materials/SkyboxProcedural.mat using Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2b885c388cd6a7dd8c3429496940b7a5') in 0.019692 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Scripts/Legacy/Editor/LegacyTransmissionDataPropertyDrawer.cs
-  artifactKey: Guid(c9cc039728aa28641b2fc5300ef29b84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Legacy/Editor/LegacyTransmissionDataPropertyDrawer.cs using Guid(c9cc039728aa28641b2fc5300ef29b84) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '80c6e52eaa253b10e2b6b4ccbc6f0e8a') in 0.009130 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Models/Track/Materials/Textures/SwatchNavyAlbedo.png
-  artifactKey: Guid(ee5f9bf88befa4e4eb6ac1d74dae4051) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Track/Materials/Textures/SwatchNavyAlbedo.png using Guid(ee5f9bf88befa4e4eb6ac1d74dae4051) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5fa1cfca0e551728d9a3fa5886006073') in 0.019265 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Effects/Smoke/Materials/Flame01.mat
-  artifactKey: Guid(e43d70c08c6bf7e4aa274e46393928b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Smoke/Materials/Flame01.mat using Guid(e43d70c08c6bf7e4aa274e46393928b3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ad6db153c77250c16cbb48b955d4dde1') in 0.048614 seconds
+  Time since last request: 0.000026 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5d12a05ae6e2e271648927d8ecbf0daf') in 0.076193 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Models/Tank/Materials/Textures/SkidTrailAlbedo.png
-  artifactKey: Guid(06e5c4401455b1d43a6255b4b8776102) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Tank/Materials/Textures/SkidTrailAlbedo.png using Guid(06e5c4401455b1d43a6255b4b8776102) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '24fb13cd8c8a014283a0d8c42f2ded80') in 0.019371 seconds
+  Time since last request: 0.000017 seconds.
+  path: Assets/Effects/Smoke/Materials/Flame01.mat
+  artifactKey: Guid(e43d70c08c6bf7e4aa274e46393928b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Smoke/Materials/Flame01.mat using Guid(e43d70c08c6bf7e4aa274e46393928b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '06199266af590a226b94b518f6674b96') in 0.057572 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Track/Materials/NavyGrid.mat
+  artifactKey: Guid(297e3a11e7d07fc48b4f71056b4f927f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Track/Materials/NavyGrid.mat using Guid(297e3a11e7d07fc48b4f71056b4f927f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '95105310113952583159f3ff308ed01e') in 0.130713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Blocks/Materials/ObstacleWhiteMaterial.mat
+  artifactKey: Guid(97ac983daaf552142bf33fbd114b4f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Blocks/Materials/ObstacleWhiteMaterial.mat using Guid(97ac983daaf552142bf33fbd114b4f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c1a2a208278b7cb9ce5ae038f81d25b7') in 0.102706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Skybox/CoriolisNight4k.mat
+  artifactKey: Guid(d4454f71d85928744be7771e2143dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Skybox/CoriolisNight4k.mat using Guid(d4454f71d85928744be7771e2143dab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'be7d94b6fdddca1b38a7685c19ee6e90') in 0.063360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Effects/Smoke/Materials/Embers.mat
+  artifactKey: Guid(cb54088e4fe82ce44aafb5f3dc12b530) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Smoke/Materials/Embers.mat using Guid(cb54088e4fe82ce44aafb5f3dc12b530) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '04d3ff8d6bba4ac8f04401685ea2a042') in 0.038397 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Effects/Explosion/Materials/Textures/shockwave.tif
-  artifactKey: Guid(492f3349f92767645a752364a5d18422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/Materials/Textures/shockwave.tif using Guid(492f3349f92767645a752364a5d18422) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b8a610ed54be540e623503014ee1ab35') in 0.015537 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
-  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a88f50d318f14ee8b57aeb01f65de8dd') in 0.008878 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000013 seconds.
-  path: Assets/Effects/Smoke/SmokeEffect.prefab
-  artifactKey: Guid(01757334d0222ed4881ce8922d96bd92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Smoke/SmokeEffect.prefab using Guid(01757334d0222ed4881ce8922d96bd92) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '8435d8507d9972eea095a668ceb47bb1') in 0.026747 seconds
+  Time since last request: 0.000017 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '02de02c368f2da0774dce83cdb2a5a99') in 0.038643 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 6
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
-  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd6d29f49a9a5f7a2571502c7371a3bd3') in 0.030686 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 5
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Scripts/Tank/TankAudioSystem.cs
-  artifactKey: Guid(55a49d79303a44ecb6d9bf161532c143) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Tank/TankAudioSystem.cs using Guid(55a49d79303a44ecb6d9bf161532c143) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '84b997fff2eb3404bb41051ed18a4a3a') in 0.008044 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/Audio/Explosion_Sound.mp3
-  artifactKey: Guid(dff85f79f1858594eae39a3b3f3f17d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Audio/Explosion_Sound.mp3 using Guid(dff85f79f1858594eae39a3b3f3f17d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'dc4292645e5a8071a4b515408d3bd25b') in 0.038838 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Models/Tank/Tank_Model.FBX
-  artifactKey: Guid(3d210b2be9d4b9144b53828dfc2e73e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Tank/Tank_Model.FBX using Guid(3d210b2be9d4b9144b53828dfc2e73e3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'e01048bf9afd174ad50fe74b4eb003a8') in 0.031680 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 69
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Effects/Explosion/Materials/Explosion.mat
-  artifactKey: Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/Materials/Explosion.mat using Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'eb5af61b5d99174538cae73f80bd7de4') in 0.058142 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Scripts/Interface/CarnageSettings.cs
-  artifactKey: Guid(d1f3d7a623ad477d857fb2e28b21a585) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Interface/CarnageSettings.cs using Guid(d1f3d7a623ad477d857fb2e28b21a585) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '9b5879900800f4a81aa3f5a17c775e45') in 0.010137 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/Animations/Indicator/IndicatorFirst_Anim.anim
-  artifactKey: Guid(2cc587680b1c2de458308b50a870cfc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Animations/Indicator/IndicatorFirst_Anim.anim using Guid(2cc587680b1c2de458308b50a870cfc9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ed8d0590ebd8fce5ed44c0455c9ca742') in 0.017710 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Effects/Explosion/Materials/ExplosionDistortion.mat
-  artifactKey: Guid(fafa06e8ef8c7fb4eac7a74c65cf3a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/Materials/ExplosionDistortion.mat using Guid(fafa06e8ef8c7fb4eac7a74c65cf3a06) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '98834324ebdbe99d707b3169567d8632') in 0.016843 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Scripts/Commons/GameObjectPool.cs
-  artifactKey: Guid(0d35545dbc124a11b514ed60bb0f65d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Scripts/Commons/GameObjectPool.cs using Guid(0d35545dbc124a11b514ed60bb0f65d0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '8d18bce6d4c7d15b704bea74cb34ae22') in 0.006945 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Effects/Explosion/Materials/Textures/Ramp03.png
-  artifactKey: Guid(595a5c1164fec844f8e6b477620221f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/Materials/Textures/Ramp03.png using Guid(595a5c1164fec844f8e6b477620221f6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'faa753eba1d01d193cf76a45ae18757e') in 0.017973 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
-  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '577c968f9f902d8985eb099a5421e8b2') in 0.008267 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Models/Blocks/Materials/ObstacleRedMaterial.mat
-  artifactKey: Guid(872a0481de12b284187b2830aa07541b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Blocks/Materials/ObstacleRedMaterial.mat using Guid(872a0481de12b284187b2830aa07541b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ccb11d79e4a1d5db479f9814bf02e2bc') in 0.040144 seconds
+  path: Assets/Models/Track/Materials/NavySmooth.mat
+  artifactKey: Guid(bccdb449802ea144b8709da9bac60356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Track/Materials/NavySmooth.mat using Guid(bccdb449802ea144b8709da9bac60356) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'df7bef8e0cf90ab759412de9a4626a54') in 0.011960 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000012 seconds.
-  path: Assets/Effects/Explosion/Materials/SmokeDark.mat
-  artifactKey: Guid(698a8134f4ebbbd4e848648685f68067) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Effects/Explosion/Materials/SmokeDark.mat using Guid(698a8134f4ebbbd4e848648685f68067) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'afd1a3f2bbd2c7de3153c6f8b617e6a9') in 0.062045 seconds
+  path: Assets/Models/Tank/Materials/CTF_Mat_TankFree_Yel.mat
+  artifactKey: Guid(546738ce5c5f3484bb590ed3d3f696ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tank/Materials/CTF_Mat_TankFree_Yel.mat using Guid(546738ce5c5f3484bb590ed3d3f696ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '80381becd7bd75e0fe005b4973e8150f') in 0.067582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc0b5300b8e0f983116f46e186ac1a94') in 0.025262 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Effects/Explosion/Materials/Explosion.mat
+  artifactKey: Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Explosion/Materials/Explosion.mat using Guid(6421a5a06ae9f7a47a57b67f35c73b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '374cfb402ba7734b3e8af1590d27464b') in 0.060551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+  artifactKey: Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat using Guid(e73a58f6e2794ae7b1b7e50b7fb811b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0ff410252c59e4d1c27e28fe59ba31b3') in 0.069572 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.152789 seconds.
-  path: Assets/Plugins/Zenject/Source/Editor/ZenMenuItems.cs
-  artifactKey: Guid(d45338750ad0b4f4b90ed09091927b46) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Editor/ZenMenuItems.cs using Guid(d45338750ad0b4f4b90ed09091927b46) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '029d419c90da68a7823c6c90dfe02292') in 0.011049 seconds
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Blocks/Materials/ObstacleRedMaterial.mat
+  artifactKey: Guid(872a0481de12b284187b2830aa07541b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Blocks/Materials/ObstacleRedMaterial.mat using Guid(872a0481de12b284187b2830aa07541b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dc1a544602e1ffdc3f7841eb219f6157') in 0.013356 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Main/ZenjectSettings.cs
-  artifactKey: Guid(1581703805dca9046a9197095cbbf3d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Main/ZenjectSettings.cs using Guid(1581703805dca9046a9197095cbbf3d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3132bc8d1f7989a320e5dbe15c9c24e7') in 0.009475 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/MethodProviderMultiple.cs
-  artifactKey: Guid(0e5a590d4406d6e46ba319046057db53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/MethodProviderMultiple.cs using Guid(0e5a590d4406d6e46ba319046057db53) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '9aeaa0c17dabcfc796ebad090c02192e') in 0.009991 seconds
+  path: Assets/Effects/Explosion/Materials/SmokeDark.mat
+  artifactKey: Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Explosion/Materials/SmokeDark.mat using Guid(698a8134f4ebbbd4e848648685f68067) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5da4f6a7d6c49efa41f1d48d7b02567d') in 2.468112 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Main/IInstantiator.cs
-  artifactKey: Guid(27acc83df7708be4185afec9bd506165) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Main/IInstantiator.cs using Guid(27acc83df7708be4185afec9bd506165) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '841161e566f1e694e631b1bca709db80') in 0.008332 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Models/Tank/Materials/Textures/CTF_Elements/CTF_Elements_Base_Color_Y.png
-  artifactKey: Guid(e6a1d361acc137f439bbcc6e7c00294b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Models/Tank/Materials/Textures/CTF_Elements/CTF_Elements_Base_Color_Y.png using Guid(e6a1d361acc137f439bbcc6e7c00294b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd39069e3ea0bd38660ea3dcc5809d7bb') in 0.014612 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/PlaceholderFactoryBase.cs
-  artifactKey: Guid(2a15cf923ae4d72418e9951480e9f178) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/PlaceholderFactoryBase.cs using Guid(2a15cf923ae4d72418e9951480e9f178) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a75e3f39eb38d6acbd5829be1c362a65') in 0.008446 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/SceneContextRegistry.cs
-  artifactKey: Guid(11e438b2dc7552349949f24c14de14be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/SceneContextRegistry.cs using Guid(11e438b2dc7552349949f24c14de14be) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0811a6611b06a2d8a92977446999acdb') in 0.008365 seconds
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bf44caa8e91324b33ac2943d1c09f7f2') in 0.031058 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 9
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Plugins/Zenject/Source/Validation/ValidationMarker.cs
-  artifactKey: Guid(27e4cef6504bc0243b1893240d22b72d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Validation/ValidationMarker.cs using Guid(27e4cef6504bc0243b1893240d22b72d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4c2ee9b3080f10eead125d9400c3bb7a') in 0.008155 seconds
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Track/Materials/WhiteSmooth.mat
+  artifactKey: Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Track/Materials/WhiteSmooth.mat using Guid(616853845a4a54949ac851f2f807aa2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ff2e1f47e4c8546eb198482e62b3685c') in 0.013564 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/TypeAnalyzer.cs
-  artifactKey: Guid(7359cd850f5a96d47ad4606d14dac326) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/TypeAnalyzer.cs using Guid(7359cd850f5a96d47ad4606d14dac326) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b605d36fbc11bab4b603446a0ba9d70d') in 0.008857 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/MethodProviderUntyped.cs
-  artifactKey: Guid(bddc7ee81ed8fd84cbf60eebf5cb3e41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/MethodProviderUntyped.cs using Guid(bddc7ee81ed8fd84cbf60eebf5cb3e41) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '412c8ca7613be20fdffe962a50859166') in 0.007643 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/KeyedFactory.cs
-  artifactKey: Guid(73ed4b67b639aaf4c94f61339a6ff413) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/KeyedFactory.cs using Guid(73ed4b67b639aaf4c94f61339a6ff413) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '62a2140af0bcf947ee62bdc02aca40d5') in 0.008859 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/TransientProvider.cs
-  artifactKey: Guid(84c5bc61bc03f17468a1953edb7dcd42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/TransientProvider.cs using Guid(84c5bc61bc03f17468a1953edb7dcd42) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'be133bb39a3dddb18729862c5124534f') in 0.010774 seconds
+  path: Assets/Effects/Smoke/Materials/Twinkle.mat
+  artifactKey: Guid(8765829b4c1b820409385ae53384fb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Smoke/Materials/Twinkle.mat using Guid(8765829b4c1b820409385ae53384fb25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f7e8adb4b3479ef7f2f9c337adb2049e') in 0.011629 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/MethodMultipleProviderUntyped.cs
-  artifactKey: Guid(dd9674ffe36a06141afeab1ebbc399f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/MethodMultipleProviderUntyped.cs using Guid(dd9674ffe36a06141afeab1ebbc399f0) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c18f1cea44c46eee5668077ec89753ca') in 0.008916 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Install/ScriptableObjectInstallerBase.cs
-  artifactKey: Guid(97c39aeade32bd54c8754bc9d6da25ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Install/ScriptableObjectInstallerBase.cs using Guid(97c39aeade32bd54c8754bc9d6da25ab) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'e0ff6134cde9b4db4fa8a7db8a586571') in 0.008836 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/SceneContextRegistryAdderAndRemover.cs
-  artifactKey: Guid(b13656f05675c384181e749264e6bcf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/SceneContextRegistryAdderAndRemover.cs using Guid(b13656f05675c384181e749264e6bcf9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '29c6cd0703adc4dc1379a7ccf0bde7da') in 0.010170 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Internal/LinqExtensions.cs
-  artifactKey: Guid(68fac2f8aa1edec4b9ef45794638a59c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Internal/LinqExtensions.cs using Guid(68fac2f8aa1edec4b9ef45794638a59c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'dbd66ea41c152db0ede8209d1a8e35e2') in 0.010320 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Injection/InjectContext.cs
-  artifactKey: Guid(2005ce29739317b48bcc3c06695da848) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Injection/InjectContext.cs using Guid(2005ce29739317b48bcc3c06695da848) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1eeb9d7cb7975a8b88b1e7b48a372145') in 0.009878 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Internal/TypeStringFormatter.cs
-  artifactKey: Guid(94a0a9a58e17e3d438c169678c9795f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Internal/TypeStringFormatter.cs using Guid(94a0a9a58e17e3d438c169678c9795f7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5013d7fc08a5b17bb5f2629df31b877f') in 0.009959 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/DisposableManager.cs
-  artifactKey: Guid(e62fabfe4695e4a439003c1c1fd5d008) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/DisposableManager.cs using Guid(e62fabfe4695e4a439003c1c1fd5d008) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'afe67e96e33f3f34bba2f730c017f2d1') in 0.010152 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/GetterProvider.cs
-  artifactKey: Guid(ce3e2ecdd52e4db469d9bc497ff5e5f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/GetterProvider.cs using Guid(ce3e2ecdd52e4db469d9bc497ff5e5f5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b9cf9e6e264a45bc8fee9d235dfd3e83') in 0.010530 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Plugins/Zenject/Source/Validation/IValidatable.cs
-  artifactKey: Guid(5d2a7156fffca9b439f7734d94ccf336) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Validation/IValidatable.cs using Guid(5d2a7156fffca9b439f7734d94ccf336) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4b0eb7cc456f286c1b75171810aeb3f2') in 0.011511 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Main/LookupId.cs
-  artifactKey: Guid(75d6ff51a82574249bd77fb5fd40d948) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Main/LookupId.cs using Guid(75d6ff51a82574249bd77fb5fd40d948) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b8301bda7ec1a04dc25090f64dcc3459') in 0.009714 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/DisposeBlock.cs
-  artifactKey: Guid(031fb76cf466ade4baf3269c39c146bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/DisposeBlock.cs using Guid(031fb76cf466ade4baf3269c39c146bd) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '428f3c0230b15a9fc3e001815853b1bb') in 0.011572 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/IProvider.cs
-  artifactKey: Guid(438b6366f2f1221448e9a71e09ac0329) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/IProvider.cs using Guid(438b6366f2f1221448e9a71e09ac0329) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd8acbee0a48f72b67a661504aa362937') in 0.009092 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/UnityUtil.cs
-  artifactKey: Guid(136cacfad8fe5404aad05dda29a777e4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/UnityUtil.cs using Guid(136cacfad8fe5404aad05dda29a777e4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '8f6c629a7e1a9f742195511da32bef59') in 0.009946 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Internal/PreserveAttribute.cs
-  artifactKey: Guid(de17d24691e2bfd458a9d10cb1d49098) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Internal/PreserveAttribute.cs using Guid(de17d24691e2bfd458a9d10cb1d49098) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4bd3340bc171a296ac28b761f12b1f89') in 0.009943 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/ReflectionUtil.cs
-  artifactKey: Guid(7c74b10dac7e87e4095f8e3157eb040d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/ReflectionUtil.cs using Guid(7c74b10dac7e87e4095f8e3157eb040d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'dd1e1e5cf0142260a0fe074661e96194') in 0.009908 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerDependencyProvider.cs
-  artifactKey: Guid(d569147915c61b64f9841ca4948f7d3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerDependencyProvider.cs using Guid(d569147915c61b64f9841ca4948f7d3f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ec61939aed66cf63cf5fe82bbc5efa5b') in 0.011783 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/TickableManager.cs
-  artifactKey: Guid(2fa54cf0e36bd194faa8f877e9f699a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/TickableManager.cs using Guid(2fa54cf0e36bd194faa8f877e9f699a4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '167f3cde49bf07872e6c42dbdf677f58') in 0.010190 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/MethodProvider.cs
-  artifactKey: Guid(22a7321581383d141b4c11983b83e67b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/MethodProvider.cs using Guid(22a7321581383d141b4c11983b83e67b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '489e0229f31a21cff38f472b05f0c43a') in 0.010219 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000027 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/ActionInstaller.cs
-  artifactKey: Guid(e182a0b67fa936e40bebc0dc2f28743a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/ActionInstaller.cs using Guid(e182a0b67fa936e40bebc0dc2f28743a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3951a58e6e75f514389f7c3b13d9797d') in 0.010991 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Internal/MiscExtensions.cs
-  artifactKey: Guid(da4e9bf39c1ac464d84d2f743a25f8d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Internal/MiscExtensions.cs using Guid(da4e9bf39c1ac464d84d2f743a25f8d1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '20d4fb4fd6a1149c8f3630628b51dc19') in 0.010467 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Util/ZenPools.cs
-  artifactKey: Guid(14ff296505fe79448b0c79ec09977477) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Util/ZenPools.cs using Guid(14ff296505fe79448b0c79ec09977477) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'df5755aa54b401574a975b9fbc6d3429') in 0.010843 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Main/SingletonMarkRegistry.cs
-  artifactKey: Guid(3844511961cf2ee40948fbe1569a2f31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Main/SingletonMarkRegistry.cs using Guid(3844511961cf2ee40948fbe1569a2f31) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b34694eb25ab78ce61139006a61c42f9') in 0.011091 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.145709 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/CopyNonLazyBinder.cs
-  artifactKey: Guid(6cf2e5d7a11cf6c418960ff59949b5fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/CopyNonLazyBinder.cs using Guid(6cf2e5d7a11cf6c418960ff59949b5fa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5430350544117c6b0f8b008ee2b14756') in 0.011599 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/MemoryPoolBase.cs
-  artifactKey: Guid(ba9d727a5d866fb46a576ab76012b727) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/MemoryPoolBase.cs using Guid(ba9d727a5d866fb46a576ab76012b727) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '19f7df4f4f954a6e64ebfd5dbd2655cb') in 0.011124 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder5.cs
-  artifactKey: Guid(dc472af8f2bc5bf498b8e85704193aac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder5.cs using Guid(dc472af8f2bc5bf498b8e85704193aac) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '037486e42f897930ef48c584f3b1cfa4') in 0.010714 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProvider.cs
-  artifactKey: Guid(3628433a045792f4297abd34b5a1a34c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProvider.cs using Guid(3628433a045792f4297abd34b5a1a34c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'e32a0eedd0f34fd6b60923010e8e0616') in 0.009734 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Editor/Editors/RunnableContextEditor.cs
-  artifactKey: Guid(02bed9738f9c4323ac05524465473dee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Editor/Editors/RunnableContextEditor.cs using Guid(02bed9738f9c4323ac05524465473dee) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c16bcac33461d6ff3990eb9d6cd89590') in 0.008823 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Static/StaticMemoryPool.cs
-  artifactKey: Guid(56b2eb81b3385fd47a0500abeac7b60e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Static/StaticMemoryPool.cs using Guid(56b2eb81b3385fd47a0500abeac7b60e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'bb5159ed43dc0595a32e7a02d1c438ba') in 0.009465 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/DecoratorToChoiceFromBinder.cs
-  artifactKey: Guid(e70f91cb77703ce42ae6ad721b89d35c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/DecoratorToChoiceFromBinder.cs using Guid(e70f91cb77703ce42ae6ad721b89d35c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2317666db4738003d2bbde307dd76b8a') in 0.009150 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorIkHandler.cs
-  artifactKey: Guid(510bfbdebf6be804b92145cf677898b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorIkHandler.cs using Guid(510bfbdebf6be804b92145cf677898b9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd1de93d4023eb308c89726194cb516e9') in 0.009629 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000014 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorDynamicContext.cs
-  artifactKey: Guid(ba4736ebcee13cb4b9feca861072c740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorDynamicContext.cs using Guid(ba4736ebcee13cb4b9feca861072c740) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '2af464476e0f6f0fbad1ee8c7de62b05') in 0.010039 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefab.cs
-  artifactKey: Guid(17fc7cad09fe4e94f939551c85abf6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefab.cs using Guid(17fc7cad09fe4e94f939551c85abf6d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '812ff2723481829c4d6f8a1ee23f3aa9') in 0.010188 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/Decorator/DecoratorProvider.cs
-  artifactKey: Guid(7a9aaabef2c47874a8b557ade27987eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/Decorator/DecoratorProvider.cs using Guid(7a9aaabef2c47874a8b557ade27987eb) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1670a2257bf093c231c0f2c1b8e756b8') in 0.009602 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToGameObjectComponentProviderBase.cs
-  artifactKey: Guid(d818f8110e5b31d4eb27001e5c5b3eb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToGameObjectComponentProviderBase.cs using Guid(d818f8110e5b31d4eb27001e5c5b3eb9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '33dc1918d1c4ab0d3ad8a250b5365b86') in 0.009272 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Util/StaticMemoryPoolRegistry.cs
-  artifactKey: Guid(cccc66ed95242b544bd7f501f0ecb89b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Util/StaticMemoryPoolRegistry.cs using Guid(cccc66ed95242b544bd7f501f0ecb89b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1df5fe14970c7f5196b85733ae7a5fc4') in 0.010365 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryArgumentsToChoiceBinder/FactoryArgumentsToChoiceBinder0.cs
-  artifactKey: Guid(ca3197650e9628a45b99e79b8dea27d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryArgumentsToChoiceBinder/FactoryArgumentsToChoiceBinder0.cs using Guid(ca3197650e9628a45b99e79b8dea27d9) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1ab873f6177c882c9327f4f078a6efe8') in 0.010236 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Install/Contexts/RunnableContext.cs
-  artifactKey: Guid(13e9b26d23f6422cb282cc27631fc9e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Install/Contexts/RunnableContext.cs using Guid(13e9b26d23f6422cb282cc27631fc9e2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a7d82fcc05b68bcef2b3b59e0aef66f9') in 0.010367 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/Kernels/DecoratableMonoKernel.cs
-  artifactKey: Guid(f054684b4d0f44a1904823270ae3f137) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/Kernels/DecoratableMonoKernel.cs using Guid(f054684b4d0f44a1904823270ae3f137) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '80e945cd50ef868a31b2dc3557aac371') in 0.010098 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder3.cs
-  artifactKey: Guid(a71cc77bd306cca459126294c63080b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder3.cs using Guid(a71cc77bd306cca459126294c63080b1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '31a6b52dcacfe006a453f3cd10b428ad') in 0.010000 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewGameObjectDynamicContext.cs
-  artifactKey: Guid(7c2c6880c82d78140818fe3204a0279b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewGameObjectDynamicContext.cs using Guid(7c2c6880c82d78140818fe3204a0279b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '51ddbbe8e9bbb60a4fd25e08c7e391bc') in 0.009312 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/PrefabCreators/PrefabInstantiator.cs
-  artifactKey: Guid(7dfc3341d0446554996b2969abf2d1ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/PrefabCreators/PrefabInstantiator.cs using Guid(7dfc3341d0446554996b2969abf2d1ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5d25468d4ad04f2d4136f0714ad98d2f') in 0.009882 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Install/Contexts/GameObjectContext.cs
-  artifactKey: Guid(08eca9f7688a0a24685b89133b020c8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Install/Contexts/GameObjectContext.cs using Guid(08eca9f7688a0a24685b89133b020c8e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1d1dab4d1e82049c2214c073e3003d06') in 0.009768 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/PlaceholderFactoryBindingFinalizer.cs
-  artifactKey: Guid(2a3880a3063c56747b32995b66a8a1ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/PlaceholderFactoryBindingFinalizer.cs using Guid(2a3880a3063c56747b32995b66a8a1ca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4475ab91fb034f38a1611165dfcd293f') in 0.010071 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder2.cs
-  artifactKey: Guid(a36f88760754c1c498ab3270dfb88b72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder2.cs using Guid(a36f88760754c1c498ab3270dfb88b72) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a4735300504f879ed654b748b32d9d68') in 0.009609 seconds
+  path: Assets/Models/Track/Materials/SkyboxProcedural.mat
+  artifactKey: Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Track/Materials/SkyboxProcedural.mat using Guid(bf1bf92a3ce592e40b898be6c21cc2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b8408a22c7a8ee7cd56360a742abe837') in 0.217578 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 1
 ========================================================================
 Received Import Request.
   Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromGameObjectGetterComponentProvider.cs
-  artifactKey: Guid(766643a5935eb704a929da28681bf70e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromGameObjectGetterComponentProvider.cs using Guid(766643a5935eb704a929da28681bf70e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f06ddb577c01625b181a9524d08c002e') in 0.009676 seconds
+  path: Assets/Effects/Weapon/Materials/MuzzleFlash01.mat
+  artifactKey: Guid(a8cb413d77ceb054abf10c2c6ee66337) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Weapon/Materials/MuzzleFlash01.mat using Guid(a8cb413d77ceb054abf10c2c6ee66337) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e51367cca311dec3c0bc2a733e1c2bc4') in 0.013796 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Util/ListPool.cs
-  artifactKey: Guid(f30364d1ac067164ea56051cd000b49f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Util/ListPool.cs using Guid(f30364d1ac067164ea56051cd000b49f) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c883c1917dbdb3e107a159e4b51184ad') in 0.009157 seconds
+  Time since last request: 0.000031 seconds.
+  path: Assets/Effects/Misc Effects/Materials/FireFlyTrail.mat
+  artifactKey: Guid(1d11412570f90ba4caf1b0b6dea27152) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Misc Effects/Materials/FireFlyTrail.mat using Guid(1d11412570f90ba4caf1b0b6dea27152) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a0b80607be8b9541ac420150eddf38cf') in 0.014246 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromGameObjectComponentProvider.cs
-  artifactKey: Guid(8d5cdba9f2e79364dbf4f3d242fd22da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/ComponentProviders/GetFromGameObjectComponentProvider.cs using Guid(8d5cdba9f2e79364dbf4f3d242fd22da) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3ace8dc6bbe144f21d53a3555cdd77ad') in 0.009646 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Editor/Editors/ProjectContextEditor.cs
-  artifactKey: Guid(b5ad40b612e67574aad508d053e6965b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Editor/Editors/ProjectContextEditor.cs using Guid(b5ad40b612e67574aad508d053e6965b) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '202eeb037acdf9bb3c7cd681508f7dc6') in 0.009627 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorMoveHandler.cs
-  artifactKey: Guid(8e42d79e9a3ccae46b54d9b173778a17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/IAnimatorMoveHandler.cs using Guid(8e42d79e9a3ccae46b54d9b173778a17) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'cd079cbfa04f21fcc13645f2de2403f1') in 0.009793 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder2.cs
-  artifactKey: Guid(59c18bddf62adaf46b1de0564bf02388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceBinder/FactoryToChoiceBinder2.cs using Guid(59c18bddf62adaf46b1de0564bf02388) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '84087b5215fa780d0d0d620c5ef7ae5e') in 0.009093 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Finalizers/ProviderBindingFinalizer.cs
-  artifactKey: Guid(ee5cb643a9ee24c4fa00e62afc9ef599) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Finalizers/ProviderBindingFinalizer.cs using Guid(ee5cb643a9ee24c4fa00e62afc9ef599) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'da72e8ebd89582683611d2a466afcf94') in 0.009203 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Plugins/Zenject/Source/Install/Contexts/ProjectContext.cs
-  artifactKey: Guid(a4e6589720da476459dc6dd71624b071) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Install/Contexts/ProjectContext.cs using Guid(a4e6589720da476459dc6dd71624b071) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '930d354f0d92df3234235d17190b1d70') in 0.009812 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProviderResource.cs
-  artifactKey: Guid(6fa6b8670ec5932489c4102d45d987ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/PrefabProviders/PrefabProviderResource.cs using Guid(6fa6b8670ec5932489c4102d45d987ff) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1606f30b575211438e59d7edf7ace24f') in 0.009179 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/IMemoryPool.cs
-  artifactKey: Guid(13b8377ec575a1a44a1028ee324ba17a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/IMemoryPool.cs using Guid(13b8377ec575a1a44a1028ee324ba17a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '22f54a9ebe2288507abfae2aa319e1a1') in 0.009747 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder4.cs
-  artifactKey: Guid(e65744c901e080744aada3988bfdf11c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder4.cs using Guid(e65744c901e080744aada3988bfdf11c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b23f71932064633e87dc95460ce0633f') in 0.009731 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryArgumentsToChoiceBinder/FactoryArgumentsToChoiceBinder2.cs
-  artifactKey: Guid(3b450191ad6422c4f841a99cdf3d108a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryArgumentsToChoiceBinder/FactoryArgumentsToChoiceBinder2.cs using Guid(3b450191ad6422c4f841a99cdf3d108a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '752ab1bb9fe1d7051e66caa3669e402b') in 0.009530 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/PoolableMemoryPool.cs
-  artifactKey: Guid(7fa0c435e1800a048ac5f7c53e03472d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/PoolableMemoryPool.cs using Guid(7fa0c435e1800a048ac5f7c53e03472d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0e39d426a9503a993eaf68d26f170aa6') in 0.009675 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder5.cs
-  artifactKey: Guid(901200be3b8d1cc40876aa50a03103b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/FactoryFromBinder5.cs using Guid(901200be3b8d1cc40876aa50a03103b8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '59bb17b896c6df8c3b904d484c7b7acb') in 0.009343 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Util/ArrayPool.cs
-  artifactKey: Guid(891d6e713fcfdfc4a95271fdee018e94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Util/ArrayPool.cs using Guid(891d6e713fcfdfc4a95271fdee018e94) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd54cd4a8a056b0b1d42d7bebdd395652') in 0.009160 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/Kernels/DefaultGameObjectKernel.cs
-  artifactKey: Guid(1c47912ae4e51a84d92f1acf689997c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/Kernels/DefaultGameObjectKernel.cs using Guid(1c47912ae4e51a84d92f1acf689997c8) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '0fba18c2f99f581d02506b004996bc4c') in 0.009807 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorBindInfo.cs
-  artifactKey: Guid(2d894c838f0dcc34bb38d1311af9ea56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorBindInfo.cs using Guid(2d894c838f0dcc34bb38d1311af9ea56) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ef32020980ed4f99370108146011fe74') in 0.010157 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Util/HashSetPool.cs
-  artifactKey: Guid(89c66035001289a4199cb04e17d0bc28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Util/HashSetPool.cs using Guid(89c66035001289a4199cb04e17d0bc28) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5a6ab8c4a067d5c84b09ab76131fb48d') in 0.009370 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/PrefabCreators/IPrefabInstantiator.cs
-  artifactKey: Guid(45b8fa051fd4fb84b94f6384e6dbe092) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/PrefabCreators/IPrefabInstantiator.cs using Guid(45b8fa051fd4fb84b94f6384e6dbe092) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1847d070027f648687c3d63980321405') in 0.009345 seconds
+  path: Assets/Models/Tank/Tank_Model.FBX
+  artifactKey: Guid(3d210b2be9d4b9144b53828dfc2e73e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Tank/Tank_Model.FBX using Guid(3d210b2be9d4b9144b53828dfc2e73e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '44127cac005525c876f86c0f9d994223') in 0.183064 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/IdScopeConcreteIdArgConditionCopyNonLazyBinder.cs
-  artifactKey: Guid(ba3894c2363faea4480796349be1c939) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/IdScopeConcreteIdArgConditionCopyNonLazyBinder.cs using Guid(ba3894c2363faea4480796349be1c939) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '183a346ec9d991d986ca9303fdf55813') in 0.010412 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder0.cs
-  artifactKey: Guid(dca817e151a0eac4480344dcf838b949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryToChoiceIdBinder/FactoryToChoiceIdBinder0.cs using Guid(dca817e151a0eac4480344dcf838b949) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '4e19c0e28d95a7621fb92137b90e9b7d') in 0.009943 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefabDynamicContext.cs
-  artifactKey: Guid(53f151c86cd3c4c46ada71b737004d36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/SubContainerCreators/SubContainerCreatorByNewPrefabDynamicContext.cs using Guid(53f151c86cd3c4c46ada71b737004d36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '870001bfc06b52cb1451c272ba6298ae') in 0.009925 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/Pooling/MemoryPoolBindingFinalizer.cs
-  artifactKey: Guid(41eb30ac64078db4090dd136ccaf1fbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/Pooling/MemoryPoolBindingFinalizer.cs using Guid(41eb30ac64078db4090dd136ccaf1fbe) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'bfb2265ac63f4fbfc4abfc7ffce672d4') in 0.010285 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/FromBinders/FromBinderNonGeneric.cs
-  artifactKey: Guid(e54c591a4175efc4688be675528600c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/FromBinders/FromBinderNonGeneric.cs using Guid(e54c591a4175efc4688be675528600c1) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c6487afab91f2c434abbc0da964ede41') in 0.009403 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Factories/Pooling/Static/PoolableStaticMemoryPool.cs
-  artifactKey: Guid(3bf78918a4d09d44695230ef305b6e1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Factories/Pooling/Static/PoolableStaticMemoryPool.cs using Guid(3bf78918a4d09d44695230ef305b6e1a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6a991a16b8ac3e7e7e7e9d21960887e0') in 0.009529 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToExistingGameObjectComponentProvider.cs
-  artifactKey: Guid(669e8af5b17774d45acea73d348e6dca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Providers/ComponentProviders/AddToGameObjectComponentProviders/AddToExistingGameObjectComponentProvider.cs using Guid(669e8af5b17774d45acea73d348e6dca) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3b6bdc1286523a68c5dc0c1a2b78810f') in 0.010401 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/Kernels/SceneKernel.cs
-  artifactKey: Guid(aff38aaefd39d0d41a92c2707718d15c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/Kernels/SceneKernel.cs using Guid(aff38aaefd39d0d41a92c2707718d15c) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'bf5281bbf132cb5d26691e92d07c7d06') in 0.009628 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 74
 ========================================================================
 Received Import Request.
   Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/AnimatorMoveHandlerManager.cs
-  artifactKey: Guid(a07f8d298d010b34ca694d0d124b66d2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Runtime/AnimatorInterfaces/AnimatorMoveHandlerManager.cs using Guid(a07f8d298d010b34ca694d0d124b66d2) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c2b47992cbe63e5a563e35f2caaf2fc8') in 0.009879 seconds
+  path: Assets/Effects/Smoke/Materials/SmokeySteam03.mat
+  artifactKey: Guid(fd80cdb028e1d864392334da34ca021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Smoke/Materials/SmokeySteam03.mat using Guid(fd80cdb028e1d864392334da34ca021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '572bfbff44d947e1d9522d42593a17ae') in 1.069891 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinderBase.cs
-  artifactKey: Guid(387c12fd770c48e49bcefe4c0723d511) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinderBase.cs using Guid(387c12fd770c48e49bcefe4c0723d511) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '7653dda86ff67efce5d97720728a7d94') in 0.009710 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
+Number of asset objects unloaded after import = 2
 ========================================================================
 Received Import Request.
   Time since last request: 0.000019 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder5.cs
-  artifactKey: Guid(e562a021e16d4a2418f6c47de105c64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder5.cs using Guid(e562a021e16d4a2418f6c47de105c64e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '11bcc34661025a2a0a347fab82555e80') in 0.009960 seconds
+  path: Assets/Effects/Smoke/SmokeEffect.prefab
+  artifactKey: Guid(01757334d0222ed4881ce8922d96bd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Smoke/SmokeEffect.prefab using Guid(01757334d0222ed4881ce8922d96bd92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6e23c90820d3b1bbd776c2463b03d6dd') in 1.994595 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder4.cs
-  artifactKey: Guid(b0f061434819b334289a066ab685ab37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
-Start importing Assets/Plugins/Zenject/Source/Binding/Binders/Factory/FactoryFromBinder/SubContainerBinder/FactorySubContainerBinder4.cs using Guid(b0f061434819b334289a066ab685ab37) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c7217327eba1d536025ef58331475929') in 0.010181 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Операция ввода/вывода была прервана из-за завершения потока команд или по запросу приложения.
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Number of asset objects unloaded after import = 9
