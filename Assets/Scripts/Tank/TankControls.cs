@@ -155,7 +155,7 @@ namespace Tanks
                 {
                     ""name"": """",
                     ""id"": ""2719a6d6-e644-41ba-a985-23767035e9ed"",
-                    ""path"": ""<Keyboard>/q"",
+                    ""path"": ""<Keyboard>/e"",
                     ""interactions"": """",
                     ""processors"": """",
                     ""groups"": """",
