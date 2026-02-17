@@ -2380,15 +2380,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5516197958400554877, guid: cfc8e7a1a4bbfd54ab1074f568ebb3e6, type: 3}
       propertyPath: m_Drag
-      value: 0.05
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5516197958400554877, guid: cfc8e7a1a4bbfd54ab1074f568ebb3e6, type: 3}
       propertyPath: m_Mass
-      value: 2000
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: 5516197958400554877, guid: cfc8e7a1a4bbfd54ab1074f568ebb3e6, type: 3}
       propertyPath: m_AngularDrag
-      value: 0.05
+      value: 0.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
